@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57115500990",
+    "project_id": "programming-star",
+    "storage_bucket": "programming-star.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57115500990:android:4a137d3266355db21b99ef",
+        "android_client_info": {
+          "package_name": "com.example.programming_stars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAydBJRgddEdK8wvSw-1Pqsfxz-YxoC-Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
